@@ -1,0 +1,3 @@
+This is a example+test that will demonstrate and test how programmatic lookup works with CDI, when the qualifer is literal, with runtime value.
+
+See the code.
